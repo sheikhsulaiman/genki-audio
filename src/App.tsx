@@ -19,7 +19,7 @@ function App() {
             </div>
             <div className="collapse-content grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
               {lesson.items.map((item, itemIndex) => (
-                <div key={itemIndex} className="card bg-base-100 shadow-sm border">
+                <div key={itemIndex} className="card bg-base-100 shadow-lg border border-primary/50">
                   <div className="card-body">
                     <h3 className="card-title">{item.title}</h3>
                     
