@@ -1,3 +1,4 @@
+import { Volume2Icon } from "lucide-react";
 import "./App.css";
 import data from "./data.json";
 import { useState } from "react";
@@ -59,7 +60,10 @@ function App() {
                   >
                     <div className="card-body">
                       <div className="flex items-center justify-between gap-2">
-                        <h3 className="card-title">{item.title}</h3>
+                        <div className="flex items-center justify-center gap-2">
+                          <Volume2Icon className="w-5 h-5 text-primary" />
+                          <h3 className="card-title">{item.title}</h3>
+                        </div>
                         {loadingStates[`${lessonIndex}-${itemIndex}`] && (
                           <span className="loading loading-spinner loading-sm text-primary"></span>
                         )}
