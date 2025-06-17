@@ -3,16 +3,26 @@ import data from "./data.json";
 import { useState } from "react";
 
 function App() {
-  const [loadingStates, setLoadingStates] = useState<Record<string, boolean>>({});
+  const [loadingStates, setLoadingStates] = useState<Record<string, boolean>>(
+    {}
+  );
+  const [hasPlayed, setHasPlayed] = useState<Record<string, boolean>>({});
 
-  const handleLoadStart = (lessonIndex: number, itemIndex: number) => {
-    setLoadingStates((prev) => ({
-      ...prev,
-      [`${lessonIndex}-${itemIndex}`]: true,
-    }));
+  const handlePlay = (lessonIndex: number, itemIndex: number) => {
+    const key = `${lessonIndex}-${itemIndex}`;
+    if (!hasPlayed[key]) {
+      setLoadingStates((prev) => ({
+        ...prev,
+        [key]: true,
+      }));
+      setHasPlayed((prev) => ({
+        ...prev,
+        [key]: true,
+      }));
+    }
   };
 
-  const handleCanPlay = (lessonIndex: number, itemIndex: number) => {
+  const handleCanPlayThrough = (lessonIndex: number, itemIndex: number) => {
     setLoadingStates((prev) => ({
       ...prev,
       [`${lessonIndex}-${itemIndex}`]: false,
@@ -35,7 +45,11 @@ function App() {
               key={lessonIndex}
               className="collapse collapse-arrow join-item border-base-300 border"
             >
-              <input type="radio" name="my-accordion-4" defaultChecked={lessonIndex === 0} />
+              <input
+                type="radio"
+                name="my-accordion-4"
+                defaultChecked={lessonIndex === 0}
+              />
               <div className="collapse-title font-semibold">{lesson.title}</div>
               <div className="collapse-content grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
                 {lesson.items.map((item, itemIndex) => (
@@ -54,8 +68,10 @@ function App() {
                         controls
                         className="w-full"
                         preload="none"
-                        onPlay={() => handleLoadStart(lessonIndex, itemIndex)}
-                        onCanPlay={() => handleCanPlay(lessonIndex, itemIndex)}
+                        onPlay={() => handlePlay(lessonIndex, itemIndex)}
+                        onCanPlayThrough={() =>
+                          handleCanPlayThrough(lessonIndex, itemIndex)
+                        }
                       >
                         <source src={item.audio} type="audio/mpeg" />
                         Your browser does not support the audio element.
