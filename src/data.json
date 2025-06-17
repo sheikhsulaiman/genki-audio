@@ -1,195 +1,1646 @@
 [
-    {
-        "title":"Lesson 00",
-        "items":[
-            {
-                "title":"K00-01",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K00-01.mp3"
-            },
-            {
-                "title":"K00-02",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K00-02.mp3"
-                
-            },
-            {
-                "title":"K00-03",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K00-03.mp3"
-            },
-            {
-                "title":"K00-04",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K00-04.mp3"
-            },
-            {
-                "title":"K00-05",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K00-05.mp3"
-            }
-
-        ]
-    },
-    {
-        "title":"Lesson 01",
-        "items":[
-            {
-                "title":"K01-01",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-01.mp3"
-            },
-            {
-                "title":"K01-02",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-02.mp3"
-            },
-            {
-                "title":"K01-03",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-03.mp3"
-            },
-            {
-                "title":"K01-04",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-04.mp3"
-            },
-            {
-                "title":"K01-05",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-05.mp3"
-            },
-            {
-                "title":"K01-06",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-06.mp3"
-            },
-            {
-                "title":"K01-07",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-07.mp3"
-            },
-            {
-                "title":"K01-08",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-08.mp3"
-            },
-            {
-                "title":"K01-09",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-09.mp3"
-            },
-            {
-                "title":"K01-10",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-10.mp3"
-            },
-            {
-                "title":"K01-11",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-11.mp3"
-            },
-            {
-                "title":"K01-12",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-12.mp3"
-            },
-            {
-                "title":"K01-13",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-13.mp3"
-            },
-            {
-                "title":"K01-14",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-14.mp3"
-            },
-            {
-                "title":"K01-15",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-15.mp3"
-            },
-            {
-                "title":"K01-16",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-16.mp3"
-            },
-            {
-                "title":"K01-17",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-17.mp3"
-            },
-            {
-                "title":"K01-18",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-18.mp3"
-            },
-            {
-                "title":"K01-19",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-19.mp3"
-            },
-            {
-                "title":"K01-20",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-20.mp3"
-            },
-            {
-                "title":"K01-21",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-21.mp3"
-            },
-            {
-                "title":"K01-22",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-22.mp3"
-            },
-            {
-                "title":"K01-23",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-23.mp3"
-            },
-            {
-                "title":"K01-24",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-24.mp3"
-            }
-        ]
-    },
-    {
-        "title":"Lesson 02",
-        "items":[
-            {
-                "title":"K02-01",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-01.mp3"
-            },
-            {
-                "title":"K02-02",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-02.mp3"
-            },
-            {
-                "title":"K02-03",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-03.mp3"
-            },
-            {
-                "title":"K02-04",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-04.mp3"
-            },
-            {
-                "title":"K02-05",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-05.mp3"
-            },
-            {
-                "title":"K02-06",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-06.mp3"
-            },
-            {
-                "title":"K02-07",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-07.mp3"
-            },
-            {
-                "title":"K02-08",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-08.mp3"
-            },
-            {
-                "title":"K02-09",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-09.mp3"
-            },
-            {
-                "title":"K02-10",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-10.mp3"
-            },
-            {
-                "title":"K02-11",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-11.mp3"
-            },
-            {
-                "title":"K02-12",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-12.mp3"
-            },
-            {
-                "title":"K02-13",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-13.mp3"
-            },
-            {
-                "title":"K02-14",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-14.mp3"
-            },
-            {
-                "title":"K02-15",
-                "audio":"https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-15.mp3"
-            }  
-        ]
-    }
+  {
+    "title": "Lesson 00",
+    "items": [
+      {
+        "title": "K00-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K00-01.mp3"
+      },
+      {
+        "title": "K00-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K00-02.mp3"
+      },
+      {
+        "title": "K00-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K00-03.mp3"
+      },
+      {
+        "title": "K00-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K00-04.mp3"
+      },
+      {
+        "title": "K00-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K00-05.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 01",
+    "items": [
+      {
+        "title": "K01-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-01.mp3"
+      },
+      {
+        "title": "K01-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-02.mp3"
+      },
+      {
+        "title": "K01-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-03.mp3"
+      },
+      {
+        "title": "K01-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-04.mp3"
+      },
+      {
+        "title": "K01-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-05.mp3"
+      },
+      {
+        "title": "K01-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-06.mp3"
+      },
+      {
+        "title": "K01-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-07.mp3"
+      },
+      {
+        "title": "K01-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-08.mp3"
+      },
+      {
+        "title": "K01-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-09.mp3"
+      },
+      {
+        "title": "K01-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-10.mp3"
+      },
+      {
+        "title": "K01-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-11.mp3"
+      },
+      {
+        "title": "K01-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-12.mp3"
+      },
+      {
+        "title": "K01-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-13.mp3"
+      },
+      {
+        "title": "K01-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-14.mp3"
+      },
+      {
+        "title": "K01-15",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-15.mp3"
+      },
+      {
+        "title": "K01-16",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-16.mp3"
+      },
+      {
+        "title": "K01-17",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-17.mp3"
+      },
+      {
+        "title": "K01-18",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-18.mp3"
+      },
+      {
+        "title": "K01-19",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-19.mp3"
+      },
+      {
+        "title": "K01-20",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-20.mp3"
+      },
+      {
+        "title": "K01-21",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-21.mp3"
+      },
+      {
+        "title": "K01-22",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-22.mp3"
+      },
+      {
+        "title": "K01-23",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-23.mp3"
+      },
+      {
+        "title": "K01-24",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K01-24.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 02",
+    "items": [
+      {
+        "title": "K02-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-01.mp3"
+      },
+      {
+        "title": "K02-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-02.mp3"
+      },
+      {
+        "title": "K02-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-03.mp3"
+      },
+      {
+        "title": "K02-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-04.mp3"
+      },
+      {
+        "title": "K02-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-05.mp3"
+      },
+      {
+        "title": "K02-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-06.mp3"
+      },
+      {
+        "title": "K02-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-07.mp3"
+      },
+      {
+        "title": "K02-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-08.mp3"
+      },
+      {
+        "title": "K02-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-09.mp3"
+      },
+      {
+        "title": "K02-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-10.mp3"
+      },
+      {
+        "title": "K02-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-11.mp3"
+      },
+      {
+        "title": "K02-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-12.mp3"
+      },
+      {
+        "title": "K02-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-13.mp3"
+      },
+      {
+        "title": "K02-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-14.mp3"
+      },
+      {
+        "title": "K02-15",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K02-15.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 03",
+    "items": [
+      {
+        "title": "K03-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K03-01.mp3"
+      },
+      {
+        "title": "K03-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K03-02.mp3"
+      },
+      {
+        "title": "K03-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K03-03.mp3"
+      },
+      {
+        "title": "K03-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K03-04.mp3"
+      },
+      {
+        "title": "K03-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K03-05.mp3"
+      },
+      {
+        "title": "K03-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K03-06.mp3"
+      },
+      {
+        "title": "K03-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K03-07.mp3"
+      },
+      {
+        "title": "K03-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K03-08.mp3"
+      },
+      {
+        "title": "K03-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K03-09.mp3"
+      },
+      {
+        "title": "K03-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K03-10.mp3"
+      },
+      {
+        "title": "K03-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K03-11.mp3"
+      },
+      {
+        "title": "K03-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K03-12.mp3"
+      },
+      {
+        "title": "K03-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K03-13.mp3"
+      },
+      {
+        "title": "K03-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K03-14.mp3"
+      },
+      {
+        "title": "K03-15",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K03-15.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 04",
+    "items": [
+      {
+        "title": "K04-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K04-01.mp3"
+      },
+      {
+        "title": "K04-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K04-02.mp3"
+      },
+      {
+        "title": "K04-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K04-03.mp3"
+      },
+      {
+        "title": "K04-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K04-04.mp3"
+      },
+      {
+        "title": "K04-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K04-05.mp3"
+      },
+      {
+        "title": "K04-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K04-06.mp3"
+      },
+      {
+        "title": "K04-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K04-07.mp3"
+      },
+      {
+        "title": "K04-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K04-08.mp3"
+      },
+      {
+        "title": "K04-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K04-09.mp3"
+      },
+      {
+        "title": "K04-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K04-10.mp3"
+      },
+      {
+        "title": "K04-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K04-11.mp3"
+      },
+      {
+        "title": "K04-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K04-12.mp3"
+      },
+      {
+        "title": "K04-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K04-13.mp3"
+      },
+      {
+        "title": "K04-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K04-14.mp3"
+      },
+      {
+        "title": "K04-15",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K04-15.mp3"
+      },
+      {
+        "title": "K04-16",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K04-16.mp3"
+      },
+      {
+        "title": "K04-17",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K04-17.mp3"
+      },
+      {
+        "title": "K04-18",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K04-18.mp3"
+      },
+      {
+        "title": "K04-19",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K04-19.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 05",
+    "items": [
+      {
+        "title": "K05-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K05-01.mp3"
+      },
+      {
+        "title": "K05-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K05-02.mp3"
+      },
+      {
+        "title": "K05-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K05-03.mp3"
+      },
+      {
+        "title": "K05-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K05-04.mp3"
+      },
+      {
+        "title": "K05-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K05-05.mp3"
+      },
+      {
+        "title": "K05-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K05-06.mp3"
+      },
+      {
+        "title": "K05-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K05-07.mp3"
+      },
+      {
+        "title": "K05-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K05-08.mp3"
+      },
+      {
+        "title": "K05-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K05-09.mp3"
+      },
+      {
+        "title": "K05-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K05-10.mp3"
+      },
+      {
+        "title": "K05-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K05-11.mp3"
+      },
+      {
+        "title": "K05-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K05-12.mp3"
+      },
+      {
+        "title": "K05-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K05-13.mp3"
+      },
+      {
+        "title": "K05-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K05-14.mp3"
+      },
+      {
+        "title": "K05-15",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K05-15.mp3"
+      },
+      {
+        "title": "K05-16",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K05-16.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 06",
+    "items": [
+      {
+        "title": "K06-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K06-01.mp3"
+      },
+      {
+        "title": "K06-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K06-02.mp3"
+      },
+      {
+        "title": "K06-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K06-03.mp3"
+      },
+      {
+        "title": "K06-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K06-04.mp3"
+      },
+      {
+        "title": "K06-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K06-05.mp3"
+      },
+      {
+        "title": "K06-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K06-06.mp3"
+      },
+      {
+        "title": "K06-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K06-07.mp3"
+      },
+      {
+        "title": "K06-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K06-08.mp3"
+      },
+      {
+        "title": "K06-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K06-09.mp3"
+      },
+      {
+        "title": "K06-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K06-10.mp3"
+      },
+      {
+        "title": "K06-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K06-11.mp3"
+      },
+      {
+        "title": "K06-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K06-12.mp3"
+      },
+      {
+        "title": "K06-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K06-13.mp3"
+      },
+      {
+        "title": "K06-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K06-14.mp3"
+      },
+      {
+        "title": "K06-15",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K06-15.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 07",
+    "items": [
+      {
+        "title": "K07-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K07-01.mp3"
+      },
+      {
+        "title": "K07-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K07-02.mp3"
+      },
+      {
+        "title": "K07-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K07-03.mp3"
+      },
+      {
+        "title": "K07-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K07-04.mp3"
+      },
+      {
+        "title": "K07-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K07-05.mp3"
+      },
+      {
+        "title": "K07-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K07-06.mp3"
+      },
+      {
+        "title": "K07-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K07-07.mp3"
+      },
+      {
+        "title": "K07-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K07-08.mp3"
+      },
+      {
+        "title": "K07-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K07-09.mp3"
+      },
+      {
+        "title": "K07-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K07-10.mp3"
+      },
+      {
+        "title": "K07-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K07-11.mp3"
+      },
+      {
+        "title": "K07-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K07-12.mp3"
+      },
+      {
+        "title": "K07-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K07-13.mp3"
+      },
+      {
+        "title": "K07-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K07-14.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 08",
+    "items": [
+      {
+        "title": "K08-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K08-01.mp3"
+      },
+      {
+        "title": "K08-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K08-02.mp3"
+      },
+      {
+        "title": "K08-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K08-03.mp3"
+      },
+      {
+        "title": "K08-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K08-04.mp3"
+      },
+      {
+        "title": "K08-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K08-05.mp3"
+      },
+      {
+        "title": "K08-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K08-06.mp3"
+      },
+      {
+        "title": "K08-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K08-07.mp3"
+      },
+      {
+        "title": "K08-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K08-08.mp3"
+      },
+      {
+        "title": "K08-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K08-09.mp3"
+      },
+      {
+        "title": "K08-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K08-10.mp3"
+      },
+      {
+        "title": "K08-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K08-11.mp3"
+      },
+      {
+        "title": "K08-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K08-12.mp3"
+      },
+      {
+        "title": "K08-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K08-13.mp3"
+      },
+      {
+        "title": "K08-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K08-14.mp3"
+      },
+      {
+        "title": "K08-15",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K08-15.mp3"
+      },
+      {
+        "title": "K08-16",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K08-16.mp3"
+      },
+      {
+        "title": "K08-17",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K08-17.mp3"
+      },
+      {
+        "title": "K08-18",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K08-18.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 09",
+    "items": [
+      {
+        "title": "K09-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K09-01.mp3"
+      },
+      {
+        "title": "K09-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K09-02.mp3"
+      },
+      {
+        "title": "K09-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K09-03.mp3"
+      },
+      {
+        "title": "K09-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K09-04.mp3"
+      },
+      {
+        "title": "K09-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K09-05.mp3"
+      },
+      {
+        "title": "K09-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K09-06.mp3"
+      },
+      {
+        "title": "K09-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K09-07.mp3"
+      },
+      {
+        "title": "K09-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K09-08.mp3"
+      },
+      {
+        "title": "K09-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K09-09.mp3"
+      },
+      {
+        "title": "K09-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K09-10.mp3"
+      },
+      {
+        "title": "K09-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K09-11.mp3"
+      },
+      {
+        "title": "K09-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K09-12.mp3"
+      },
+      {
+        "title": "K09-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K09-13.mp3"
+      },
+      {
+        "title": "K09-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K09-14.mp3"
+      },
+      {
+        "title": "K09-15",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K09-15.mp3"
+      },
+      {
+        "title": "K09-16",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K09-16.mp3"
+      },
+      {
+        "title": "K09-17",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K09-17.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 10",
+    "items": [
+      {
+        "title": "K10-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K10-01.mp3"
+      },
+      {
+        "title": "K10-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K10-02.mp3"
+      },
+      {
+        "title": "K10-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K10-03.mp3"
+      },
+      {
+        "title": "K10-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K10-04.mp3"
+      },
+      {
+        "title": "K10-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K10-05.mp3"
+      },
+      {
+        "title": "K10-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K10-06.mp3"
+      },
+      {
+        "title": "K10-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K10-07.mp3"
+      },
+      {
+        "title": "K10-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K10-08.mp3"
+      },
+      {
+        "title": "K10-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K10-09.mp3"
+      },
+      {
+        "title": "K10-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K10-10.mp3"
+      },
+      {
+        "title": "K10-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K10-11.mp3"
+      },
+      {
+        "title": "K10-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K10-12.mp3"
+      },
+      {
+        "title": "K10-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K10-13.mp3"
+      },
+      {
+        "title": "K10-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K10-14.mp3"
+      },
+      {
+        "title": "K10-15",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K10-15.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 11",
+    "items": [
+      {
+        "title": "K11-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K11-01.mp3"
+      },
+      {
+        "title": "K11-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K11-02.mp3"
+      },
+      {
+        "title": "K11-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K11-03.mp3"
+      },
+      {
+        "title": "K11-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K11-04.mp3"
+      },
+      {
+        "title": "K11-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K11-05.mp3"
+      },
+      {
+        "title": "K11-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K11-06.mp3"
+      },
+      {
+        "title": "K11-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K11-07.mp3"
+      },
+      {
+        "title": "K11-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K11-08.mp3"
+      },
+      {
+        "title": "K11-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K11-09.mp3"
+      },
+      {
+        "title": "K11-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K11-10.mp3"
+      },
+      {
+        "title": "K11-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K11-11.mp3"
+      },
+      {
+        "title": "K11-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K11-12.mp3"
+      },
+      {
+        "title": "K11-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K11-13.mp3"
+      },
+      {
+        "title": "K11-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K11-14.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 12",
+    "items": [
+      {
+        "title": "K12-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K12-01.mp3"
+      },
+      {
+        "title": "K12-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K12-02.mp3"
+      },
+      {
+        "title": "K12-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K12-03.mp3"
+      },
+      {
+        "title": "K12-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K12-04.mp3"
+      },
+      {
+        "title": "K12-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K12-05.mp3"
+      },
+      {
+        "title": "K12-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K12-06.mp3"
+      },
+      {
+        "title": "K12-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K12-07.mp3"
+      },
+      {
+        "title": "K12-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K12-08.mp3"
+      },
+      {
+        "title": "K12-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K12-09.mp3"
+      },
+      {
+        "title": "K12-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K12-10.mp3"
+      },
+      {
+        "title": "K12-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K12-11.mp3"
+      },
+      {
+        "title": "K12-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K12-12.mp3"
+      },
+      {
+        "title": "K12-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K12-13.mp3"
+      },
+      {
+        "title": "K12-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K12-14.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 13",
+    "items": [
+      {
+        "title": "K13-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K13-01.mp3"
+      },
+      {
+        "title": "K13-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K13-02.mp3"
+      },
+      {
+        "title": "K13-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K13-03.mp3"
+      },
+      {
+        "title": "K13-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K13-04.mp3"
+      },
+      {
+        "title": "K13-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K13-05.mp3"
+      },
+      {
+        "title": "K13-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K13-06.mp3"
+      },
+      {
+        "title": "K13-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K13-07.mp3"
+      },
+      {
+        "title": "K13-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K13-08.mp3"
+      },
+      {
+        "title": "K13-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K13-09.mp3"
+      },
+      {
+        "title": "K13-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K13-10.mp3"
+      },
+      {
+        "title": "K13-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K13-11.mp3"
+      },
+      {
+        "title": "K13-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K13-12.mp3"
+      },
+      {
+        "title": "K13-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K13-13.mp3"
+      },
+      {
+        "title": "K13-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K13-14.mp3"
+      },
+      {
+        "title": "K13-15",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K13-15.mp3"
+      },
+      {
+        "title": "K13-16",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K13-16.mp3"
+      },
+      {
+        "title": "K13-17",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K13-17.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 14",
+    "items": [
+      {
+        "title": "K14-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K14-01.mp3"
+      },
+      {
+        "title": "K14-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K14-02.mp3"
+      },
+      {
+        "title": "K14-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K14-03.mp3"
+      },
+      {
+        "title": "K14-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K14-04.mp3"
+      },
+      {
+        "title": "K14-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K14-05.mp3"
+      },
+      {
+        "title": "K14-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K14-06.mp3"
+      },
+      {
+        "title": "K14-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K14-07.mp3"
+      },
+      {
+        "title": "K14-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K14-08.mp3"
+      },
+      {
+        "title": "K14-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K14-09.mp3"
+      },
+      {
+        "title": "K14-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K14-10.mp3"
+      },
+      {
+        "title": "K14-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K14-11.mp3"
+      },
+      {
+        "title": "K14-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K14-12.mp3"
+      },
+      {
+        "title": "K14-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K14-13.mp3"
+      },
+      {
+        "title": "K14-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K14-14.mp3"
+      },
+      {
+        "title": "K14-15",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K14-15.mp3"
+      },
+      {
+        "title": "K14-16",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K14-16.mp3"
+      },
+      {
+        "title": "K14-17",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K14-17.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 15",
+    "items": [
+      {
+        "title": "K15-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K15-01.mp3"
+      },
+      {
+        "title": "K15-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K15-02.mp3"
+      },
+      {
+        "title": "K15-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K15-03.mp3"
+      },
+      {
+        "title": "K15-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K15-04.mp3"
+      },
+      {
+        "title": "K15-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K15-05.mp3"
+      },
+      {
+        "title": "K15-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K15-06.mp3"
+      },
+      {
+        "title": "K15-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K15-07.mp3"
+      },
+      {
+        "title": "K15-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K15-08.mp3"
+      },
+      {
+        "title": "K15-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K15-09.mp3"
+      },
+      {
+        "title": "K15-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K15-10.mp3"
+      },
+      {
+        "title": "K15-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K15-11.mp3"
+      },
+      {
+        "title": "K15-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K15-12.mp3"
+      },
+      {
+        "title": "K15-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K15-13.mp3"
+      },
+      {
+        "title": "K15-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K15-14.mp3"
+      },
+      {
+        "title": "K15-15",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K15-15.mp3"
+      },
+      {
+        "title": "K15-16",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K15-16.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 16",
+    "items": [
+      {
+        "title": "K16-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K16-01.mp3"
+      },
+      {
+        "title": "K16-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K16-02.mp3"
+      },
+      {
+        "title": "K16-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K16-03.mp3"
+      },
+      {
+        "title": "K16-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K16-04.mp3"
+      },
+      {
+        "title": "K16-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K16-05.mp3"
+      },
+      {
+        "title": "K16-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K16-06.mp3"
+      },
+      {
+        "title": "K16-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K16-07.mp3"
+      },
+      {
+        "title": "K16-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K16-08.mp3"
+      },
+      {
+        "title": "K16-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K16-09.mp3"
+      },
+      {
+        "title": "K16-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K16-10.mp3"
+      },
+      {
+        "title": "K16-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K16-11.mp3"
+      },
+      {
+        "title": "K16-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K16-12.mp3"
+      },
+      {
+        "title": "K16-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K16-13.mp3"
+      },
+      {
+        "title": "K16-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K16-14.mp3"
+      },
+      {
+        "title": "K16-15",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K16-15.mp3"
+      },
+      {
+        "title": "K16-16",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K16-16.mp3"
+      },
+      {
+        "title": "K16-17",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K16-17.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 17",
+    "items": [
+      {
+        "title": "K17-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K17-01.mp3"
+      },
+      {
+        "title": "K17-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K17-02.mp3"
+      },
+      {
+        "title": "K17-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K17-03.mp3"
+      },
+      {
+        "title": "K17-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K17-04.mp3"
+      },
+      {
+        "title": "K17-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K17-05.mp3"
+      },
+      {
+        "title": "K17-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K17-06.mp3"
+      },
+      {
+        "title": "K17-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K17-07.mp3"
+      },
+      {
+        "title": "K17-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K17-08.mp3"
+      },
+      {
+        "title": "K17-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K17-09.mp3"
+      },
+      {
+        "title": "K17-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K17-10.mp3"
+      },
+      {
+        "title": "K17-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K17-11.mp3"
+      },
+      {
+        "title": "K17-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K17-12.mp3"
+      },
+      {
+        "title": "K17-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K17-13.mp3"
+      },
+      {
+        "title": "K17-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K17-14.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 18",
+    "items": [
+      {
+        "title": "K18-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K18-01.mp3"
+      },
+      {
+        "title": "K18-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K18-02.mp3"
+      },
+      {
+        "title": "K18-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K18-03.mp3"
+      },
+      {
+        "title": "K18-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K18-04.mp3"
+      },
+      {
+        "title": "K18-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K18-05.mp3"
+      },
+      {
+        "title": "K18-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K18-06.mp3"
+      },
+      {
+        "title": "K18-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K18-07.mp3"
+      },
+      {
+        "title": "K18-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K18-08.mp3"
+      },
+      {
+        "title": "K18-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K18-09.mp3"
+      },
+      {
+        "title": "K18-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K18-10.mp3"
+      },
+      {
+        "title": "K18-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K18-11.mp3"
+      },
+      {
+        "title": "K18-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K18-12.mp3"
+      },
+      {
+        "title": "K18-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K18-13.mp3"
+      },
+      {
+        "title": "K18-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K18-14.mp3"
+      },
+      {
+        "title": "K18-15",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K18-15.mp3"
+      },
+      {
+        "title": "K18-16",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K18-16.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 19",
+    "items": [
+      {
+        "title": "K19-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K19-01.mp3"
+      },
+      {
+        "title": "K19-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K19-02.mp3"
+      },
+      {
+        "title": "K19-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K19-03.mp3"
+      },
+      {
+        "title": "K19-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K19-04.mp3"
+      },
+      {
+        "title": "K19-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K19-05.mp3"
+      },
+      {
+        "title": "K19-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K19-06.mp3"
+      },
+      {
+        "title": "K19-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K19-07.mp3"
+      },
+      {
+        "title": "K19-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K19-08.mp3"
+      },
+      {
+        "title": "K19-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K19-09.mp3"
+      },
+      {
+        "title": "K19-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K19-10.mp3"
+      },
+      {
+        "title": "K19-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K19-11.mp3"
+      },
+      {
+        "title": "K19-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K19-12.mp3"
+      },
+      {
+        "title": "K19-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K19-13.mp3"
+      },
+      {
+        "title": "K19-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K19-14.mp3"
+      },
+      {
+        "title": "K19-15",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K19-15.mp3"
+      },
+      {
+        "title": "K19-16",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K19-16.mp3"
+      },
+      {
+        "title": "K19-17",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K19-17.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 20",
+    "items": [
+      {
+        "title": "K20-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K20-01.mp3"
+      },
+      {
+        "title": "K20-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K20-02.mp3"
+      },
+      {
+        "title": "K20-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K20-03.mp3"
+      },
+      {
+        "title": "K20-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K20-04.mp3"
+      },
+      {
+        "title": "K20-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K20-05.mp3"
+      },
+      {
+        "title": "K20-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K20-06.mp3"
+      },
+      {
+        "title": "K20-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K20-07.mp3"
+      },
+      {
+        "title": "K20-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K20-08.mp3"
+      },
+      {
+        "title": "K20-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K20-09.mp3"
+      },
+      {
+        "title": "K20-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K20-10.mp3"
+      },
+      {
+        "title": "K20-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K20-11.mp3"
+      },
+      {
+        "title": "K20-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K20-12.mp3"
+      },
+      {
+        "title": "K20-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K20-13.mp3"
+      },
+      {
+        "title": "K20-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K20-14.mp3"
+      },
+      {
+        "title": "K20-15",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K20-15.mp3"
+      },
+      {
+        "title": "K20-16",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K20-16.mp3"
+      },
+      {
+        "title": "K20-17",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K20-17.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 21",
+    "items": [
+      {
+        "title": "K21-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K21-01.mp3"
+      },
+      {
+        "title": "K21-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K21-02.mp3"
+      },
+      {
+        "title": "K21-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K21-03.mp3"
+      },
+      {
+        "title": "K21-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K21-04.mp3"
+      },
+      {
+        "title": "K21-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K21-05.mp3"
+      },
+      {
+        "title": "K21-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K21-06.mp3"
+      },
+      {
+        "title": "K21-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K21-07.mp3"
+      },
+      {
+        "title": "K21-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K21-08.mp3"
+      },
+      {
+        "title": "K21-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K21-09.mp3"
+      },
+      {
+        "title": "K21-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K21-10.mp3"
+      },
+      {
+        "title": "K21-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K21-11.mp3"
+      },
+      {
+        "title": "K21-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K21-12.mp3"
+      },
+      {
+        "title": "K21-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K21-13.mp3"
+      },
+      {
+        "title": "K21-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K21-14.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 22",
+    "items": [
+      {
+        "title": "K22-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K22-01.mp3"
+      },
+      {
+        "title": "K22-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K22-02.mp3"
+      },
+      {
+        "title": "K22-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K22-03.mp3"
+      },
+      {
+        "title": "K22-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K22-04.mp3"
+      },
+      {
+        "title": "K22-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K22-05.mp3"
+      },
+      {
+        "title": "K22-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K22-06.mp3"
+      },
+      {
+        "title": "K22-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K22-07.mp3"
+      },
+      {
+        "title": "K22-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K22-08.mp3"
+      },
+      {
+        "title": "K22-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K22-09.mp3"
+      },
+      {
+        "title": "K22-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K22-10.mp3"
+      },
+      {
+        "title": "K22-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K22-11.mp3"
+      },
+      {
+        "title": "K22-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K22-12.mp3"
+      },
+      {
+        "title": "K22-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K22-13.mp3"
+      },
+      {
+        "title": "K22-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K22-14.mp3"
+      },
+      {
+        "title": "K22-15",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K22-15.mp3"
+      },
+      {
+        "title": "K22-16",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K22-16.mp3"
+      },
+      {
+        "title": "K22-17",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K22-17.mp3"
+      },
+      {
+        "title": "K22-18",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K22-18.mp3"
+      }
+    ]
+  },
+  {
+    "title": "Lesson 23",
+    "items": [
+      {
+        "title": "K23-01",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K23-01.mp3"
+      },
+      {
+        "title": "K23-02",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K23-02.mp3"
+      },
+      {
+        "title": "K23-03",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K23-03.mp3"
+      },
+      {
+        "title": "K23-04",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K23-04.mp3"
+      },
+      {
+        "title": "K23-05",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K23-05.mp3"
+      },
+      {
+        "title": "K23-06",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K23-06.mp3"
+      },
+      {
+        "title": "K23-07",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K23-07.mp3"
+      },
+      {
+        "title": "K23-08",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K23-08.mp3"
+      },
+      {
+        "title": "K23-09",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K23-09.mp3"
+      },
+      {
+        "title": "K23-10",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K23-10.mp3"
+      },
+      {
+        "title": "K23-11",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K23-11.mp3"
+      },
+      {
+        "title": "K23-12",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K23-12.mp3"
+      },
+      {
+        "title": "K23-13",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K23-13.mp3"
+      },
+      {
+        "title": "K23-14",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K23-14.mp3"
+      },
+      {
+        "title": "K23-15",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K23-15.mp3"
+      },
+      {
+        "title": "K23-16",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K23-16.mp3"
+      },
+      {
+        "title": "K23-17",
+        "audio": "https://d1ah00zr2sucky.cloudfront.net/GenkiAudioFiles/JapaneseGenki3rdEdExerciseFiles_audios/Genki3rdEdAudio_K23-17.mp3"
+      }
+    ]
+  }
 ]
