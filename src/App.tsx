@@ -1,7 +1,7 @@
 import "./App.css";
 import data from "./data.json"
 function App() {
-  console.log(data);
+  
   return (
     <div className="container mx-auto max-w-4xl my-4">
       <div className="card bg-green-200 shadow-sm">
@@ -23,7 +23,7 @@ function App() {
                   <div className="card-body">
                     <h3 className="card-title">{item.title}</h3>
                     
-                    <audio controls className="w-full">
+                    <audio controls className="w-full" preload="none">
                       <source src={item.audio} type="audio/mpeg" />
                       Your browser does not support the audio element.
                     </audio>
