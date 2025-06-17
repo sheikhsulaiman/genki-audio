@@ -31,9 +31,9 @@ function App() {
   };
 
   return (
-    <div className="container mx-auto max-w-4xl my-4">
-      <div className="card bg-green-200 shadow-sm">
-        <div className="card-body">
+    <div className="container mx-auto max-w-4xl md:my-4">
+      <div className="card">
+        <div className="card-body bg-green-200 shadow-sm md:rounded-xl md:mb-4 sticky top-0 md:top-4 z-10">
           <h2 className="card-title">Genki - Sound Navigator</h2>
           <p>
             This website is designed to easily navigate to the audio of the
