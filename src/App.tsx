@@ -1,5 +1,4 @@
 import { Volume2Icon } from "lucide-react";
-import "./App.css";
 import data from "./data.json";
 import { useState } from "react";
 
@@ -37,7 +36,7 @@ function App() {
           <h2 className="card-title">Genki - Sound Navigator</h2>
           <p>
             This website is designed to easily navigate to the audio of the
-            Genki Book.
+            Genki Book [Third Edition].
           </p>
         </div>
         <div className="join join-vertical bg-base-100">
