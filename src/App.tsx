@@ -40,6 +40,17 @@ function App() {
           </p>
         </div>
         <div className="join join-vertical bg-base-100">
+          <div className="collapse collapse-arrow join-item border-base-300 border">
+            <input type="radio" name="my-accordion-4" defaultChecked />
+            <div className="collapse-title font-semibold">Overview</div>
+            <div className="collapse-content">
+              <img
+                src="https://genki3.japantimes.co.jp/images/intro/en/01_genki-series-3d1d1afbdef61a672509c4a9bf202074.jpg"
+                alt="cover-photograph"
+                className="w-full h-auto rounded-xl"
+              />
+            </div>
+          </div>
           {data.map((lesson, lessonIndex) => (
             <div
               key={lessonIndex}
@@ -48,7 +59,7 @@ function App() {
               <input
                 type="radio"
                 name="my-accordion-4"
-                defaultChecked={lessonIndex === 0}
+                // defaultChecked={lessonIndex === 0}
               />
               <div className="collapse-title font-semibold">{lesson.title}</div>
               <div className="collapse-content grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
